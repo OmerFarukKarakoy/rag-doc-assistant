@@ -111,7 +111,6 @@ Create a .env file in the project root and add your Google Gemini API key:
    streamlit run frontend/streamlit_app.py
    ``` 
 
-In the output, you'll find options to open the app in a
 
 
 ## 👨‍💻 Developer
