@@ -81,15 +81,15 @@ rag-doc-assistant/
    
    ```bash
    git clone [https://github.com/OmerFarukKarakoy/rag-doc-assistant.git](https://github.com/OmerFarukKarakoy/rag-doc-assistant.git)
-cd rag-doc-assistant
+   cd rag-doc-assistant
    ```
    
 2. Create a virtual environment & install dependencies
 
    ```bash
    python -m venv venv
-.\venv\Scripts\Activate.ps1
-pip install -r requirements.txt
+   .\venv\Scripts\Activate.ps1
+   pip install -r requirements.txt
    ```
 
 3. Configure Environment Variables
