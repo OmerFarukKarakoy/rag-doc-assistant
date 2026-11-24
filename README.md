@@ -107,7 +107,7 @@ Create a .env file in the project root and add your Google Gemini API key:
 
 5. Launch the Streamlit Frontend (in a separate terminal)
 
-  ```bash
+   ```bash
    streamlit run frontend/streamlit_app.py
    ``` 
 
