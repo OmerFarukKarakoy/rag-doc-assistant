@@ -41,7 +41,7 @@ The system implements a strict, verifiable three-stage RAG pipeline:
 ## 🖥️ Visual Preview
 
 ### Interactive Document Q&A & Page-Level Citation Verification
-*Real-time PDF ingestion, live API/index status badge, multi-page semantic retrieval (Page 1 & Page 3), and expandable source evidence cards.*
+*Real-time PDF ingestion, live API/index status badge, multi-page semantic retrieval, and expandable source evidence cards.*
 
 <img width="900" alt="Enterprise Citation-Based RAG Assistant UI" src="rag-doc.png" />
 
