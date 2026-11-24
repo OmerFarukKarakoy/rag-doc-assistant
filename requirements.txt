@@ -1,0 +1,10 @@
+﻿fastapi
+uvicorn
+python-multipart
+streamlit
+google-genai
+chromadb
+pypdf
+langchain-text-splitters
+python-dotenv
+requests
